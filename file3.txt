@@ -1,0 +1,2 @@
+This file is not committed yet and git does'nt want the file to be lost and
+hence saves it in the other branch as well
