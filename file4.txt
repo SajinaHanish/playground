@@ -1,0 +1,2 @@
+This file is a sample
+I'm modifying the file to see the changes, if it occurs after being stagged.
